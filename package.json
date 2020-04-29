@@ -1,0 +1,24 @@
+{
+  "name": "botghost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danivanbussel/botghost.git"
+  },
+  "author": "Dani van Bussel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danivanbussel/botghost/issues"
+  },
+  "homepage": "https://github.com/danivanbussel/botghost#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "nodemon": "^2.0.3"
+  }
+}
