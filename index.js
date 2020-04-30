@@ -10,4 +10,4 @@ bot.on("ready", async () => {
     bot.user.setActivity("test.ip", { type: "PLAYING" });
 });
 
-bot.login(process.env.token);
+bot.login(process.env.token);  
